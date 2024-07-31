@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-pede&label=Profile%20views&color=0e75b6&style=flat" alt="yash-pede" /> </p>
 
-- 🔭 I’m currently working at [momentum.sh](momentum.sh)
 
 - 🌱 I’m currently learning **nextjs threejs supabase python**
 
