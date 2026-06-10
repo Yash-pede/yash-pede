@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **react frontend js**
 
-- 📫 How to reach me **yashpede@ssipmt.com**
+- 📫 How to reach me **work@yashpede.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
